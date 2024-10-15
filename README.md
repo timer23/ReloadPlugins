@@ -1,7 +1,7 @@
 # ReloadPlugins - BetterDiscord Plugin
 
 ## Description
-`ReloadPlugins` is a BetterDiscord plugin that adds a custom button to the interface, allowing you to quickly reload all your active plugins without needing to restart BetterDiscord manually.
+ReloadPlugins is a BetterDiscord plugin that adds a custom button to the interface, allowing you to quickly reload all your active plugins without needing to restart BetterDiscord manually.
 
 ## Features
 - **Reload All Plugins:** A convenient button to reload all plugins with one click.
